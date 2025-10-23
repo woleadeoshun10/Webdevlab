@@ -1,0 +1,29 @@
+/* Write your code here: */
+
+
+/* Group Selector: Apply to both Selectors (selector, selector) */
+h1, h2{
+  color: blueviolet;
+}
+
+/* Child Selector: Apply to direct child of the Parent Selector (selector > selector) */
+.box > p{
+  color: firebrick;
+}
+
+/* Descendant Selector: Apply to all desendant with same ancestor Selectors (selector selector)  */
+.box li{
+  color: blue;
+}
+
+/* Chaining Selector: All Selectors are TRUE (selectorselector) */
+li.done{
+  color: seagreen;
+}
+
+/* Combining Selector: All selectors can be combined */
+ ul p.done{
+  font-size: 0.5rem;
+ }
+
+ 
