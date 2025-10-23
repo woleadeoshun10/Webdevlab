@@ -23,7 +23,7 @@ This repo includes all my mini projects, solution files, and goal images from An
 
 ---
 
-## 🧠 What’s Inside
+## What’s Inside
 Each folder includes:
 - **`index.html`** → my own solution or exercise  
 - **`solution.html`** → reference solution from the course  
@@ -31,7 +31,7 @@ Each folder includes:
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 This repository serves as my:
 - **Personal study log** for web fundamentals  
 - **Project portfolio** to track progress  
@@ -39,7 +39,7 @@ This repository serves as my:
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 - **HTML5**
 - **CSS3**
 - **Flexbox**
@@ -48,7 +48,7 @@ This repository serves as my:
 
 ---
 
-## 💻 View My Work
+## View My Work
 To view projects locally:
 1. Clone this repo  
    ```bash
