@@ -19,7 +19,7 @@ This repo includes all my mini projects, solution files, and goal images from An
 | `9.x` | Flexbox and Layout Exercises |
 | `10.x` | Grid Layout, Placement, and Mondrian Art Project |
 | `11.x` | Bootstrap Introduction and Components |
-| *(more coming soon...)* | Future modules like Animations, Transitions, and Responsive Design |
+
 
 ---
 
